@@ -1,0 +1,133 @@
+Category : Men's Shirt
+Quantity : 5
+Time & Date : 14:48 PM, 22/08/2022
+===============================================
+Category : Ledis Pajama
+Quantity : 10
+Time & Date : 14:49 PM, 22/08/2022
+===============================================
+Category : Sharee
+Quantity : 12
+Time & Date : 18:03 PM, 22/08/2022
+===============================================
+Category : Men's Coat
+Quantity : 2
+Time & Date : 18:04 PM, 22/08/2022
+===============================================
+
+Category : Men's Shirt
+Quantity : 4
+Time & Date : 12:49 PM, 23/08/2022
+===============================================
+Category : Men's Pant
+Quantity : 4
+Time & Date : 12:49 PM, 23/08/2022
+===============================================
+Category : Men's Pant
+Quantity : 3
+Time & Date : 12:50 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 4
+Time & Date : 12:50 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 12:50 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 4
+Time & Date : 12:55 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 3
+Time & Date : 12:55 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 4
+Time & Date : 13:17 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:18 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:26 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:27 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:27 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:35 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 5
+Time & Date : 13:36 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 6
+Time & Date : 13:36 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:36 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:37 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:37 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:37 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:37 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:39 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 13:40 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 55
+Time & Date : 13:42 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 23
+Time & Date : 13:42 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 54
+Time & Date : 13:44 PM, 23/08/2022
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 21:20 PM, 29/12/2022
+===============================================
+Category : Sharee
+Quantity : 2
+Time & Date : 03:18 AM, 27/02/2023
+===============================================
+Category : Men's Shirt
+Quantity : 1
+Time & Date : 02:25 AM, 23/04/2023
+===============================================
+Category : Men's Shirt
+Quantity : 2
+Time & Date : 02:25 AM, 23/04/2023
+===============================================

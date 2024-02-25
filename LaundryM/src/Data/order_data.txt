@@ -1,0 +1,40 @@
+Product Category : Men's Shirt
+Price : 50
+Time & Date : 00:41 AM, 22/08/2022
+===============================================
+Product Category : Men's Pant
+Price : 60
+Time & Date : 00:45 AM, 22/08/2022
+===============================================
+Product Category : Men's Coat
+Price : 100
+Time & Date : 01:40 AM, 22/08/2022
+===============================================
+Product Category : Ledis Top's
+Price : 70
+Time & Date : 02:16 AM, 22/08/2022
+===============================================
+Product Category : Ledis Pajama
+Price : 20
+Time & Date : 03:01 AM, 22/08/2022
+===============================================
+Product Category : Sharee
+Price : 200
+Time & Date : 03:02 AM, 22/08/2022
+===============================================
+Product Category : T-Shirt
+Price : 80
+Time & Date : 03:02 AM, 22/08/2022
+===============================================
+Product Category : Men's Pant
+Price : 45
+Time & Date : 01:33 AM, 23/08/2022
+===============================================
+Security Question : Men's Shirt
+Answer : 110
+Time & Date : 11:19 AM, 23/08/2022
+===============================================
+Product Category : Blanket
+Price : 343
+Time & Date : 12:27 PM, 23/08/2022
+===============================================

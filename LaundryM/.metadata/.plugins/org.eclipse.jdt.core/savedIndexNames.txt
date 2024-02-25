@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Java 1\My Project\LaundryM\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
